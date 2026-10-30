@@ -1,4 +1,3 @@
-
 # Gizlilik Politikası — Sayı Kasası (Number Vault)
 
 **Son Güncelleme:** 30 Ekim 2026  
