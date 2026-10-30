@@ -1,1 +1,0 @@
-# sayi-kasasi-privacy
