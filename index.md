@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Sayı Kasası - Gizlilik Politikası
----
-
 
 # Gizlilik Politikası — Sayı Kasası (Number Vault)
 
